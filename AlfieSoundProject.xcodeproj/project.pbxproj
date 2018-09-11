@@ -13,6 +13,11 @@
 		D094D8E32144E75400B9E0FF /* AlfieSoundProject.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = D094D8E12144E75400B9E0FF /* AlfieSoundProject.xcdatamodeld */; };
 		D094D8E52144E75400B9E0FF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D094D8E42144E75400B9E0FF /* Assets.xcassets */; };
 		D094D8E82144E75400B9E0FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D094D8E62144E75400B9E0FF /* LaunchScreen.storyboard */; };
+		D094D8F02144E76A00B9E0FF /* IMG_1037.JPG in Resources */ = {isa = PBXBuildFile; fileRef = D094D8EF2144E76A00B9E0FF /* IMG_1037.JPG */; };
+		D094D8F52144F18800B9E0FF /* AlfieEh.m4a in Resources */ = {isa = PBXBuildFile; fileRef = D094D8F12144F18800B9E0FF /* AlfieEh.m4a */; };
+		D094D8F62144F18800B9E0FF /* AlfieStop.m4a in Resources */ = {isa = PBXBuildFile; fileRef = D094D8F22144F18800B9E0FF /* AlfieStop.m4a */; };
+		D094D8F72144F18800B9E0FF /* AlfieBone.m4a in Resources */ = {isa = PBXBuildFile; fileRef = D094D8F32144F18800B9E0FF /* AlfieBone.m4a */; };
+		D094D8F82144F18800B9E0FF /* AlfieGoodBoy.m4a in Resources */ = {isa = PBXBuildFile; fileRef = D094D8F42144F18800B9E0FF /* AlfieGoodBoy.m4a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +29,11 @@
 		D094D8E42144E75400B9E0FF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D094D8E72144E75400B9E0FF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D094D8E92144E75400B9E0FF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D094D8EF2144E76A00B9E0FF /* IMG_1037.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_1037.JPG; sourceTree = "<group>"; };
+		D094D8F12144F18800B9E0FF /* AlfieEh.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = AlfieEh.m4a; sourceTree = "<group>"; };
+		D094D8F22144F18800B9E0FF /* AlfieStop.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = AlfieStop.m4a; sourceTree = "<group>"; };
+		D094D8F32144F18800B9E0FF /* AlfieBone.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = AlfieBone.m4a; sourceTree = "<group>"; };
+		D094D8F42144F18800B9E0FF /* AlfieGoodBoy.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = AlfieGoodBoy.m4a; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +66,11 @@
 		D094D8D92144E75400B9E0FF /* AlfieSoundProject */ = {
 			isa = PBXGroup;
 			children = (
+				D094D8F32144F18800B9E0FF /* AlfieBone.m4a */,
+				D094D8F12144F18800B9E0FF /* AlfieEh.m4a */,
+				D094D8F42144F18800B9E0FF /* AlfieGoodBoy.m4a */,
+				D094D8F22144F18800B9E0FF /* AlfieStop.m4a */,
+				D094D8EF2144E76A00B9E0FF /* IMG_1037.JPG */,
 				D094D8DA2144E75400B9E0FF /* AppDelegate.swift */,
 				D094D8DC2144E75400B9E0FF /* ViewController.swift */,
 				D094D8DE2144E75400B9E0FF /* Main.storyboard */,
@@ -125,9 +140,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D094D8F72144F18800B9E0FF /* AlfieBone.m4a in Resources */,
+				D094D8F62144F18800B9E0FF /* AlfieStop.m4a in Resources */,
 				D094D8E82144E75400B9E0FF /* LaunchScreen.storyboard in Resources */,
 				D094D8E52144E75400B9E0FF /* Assets.xcassets in Resources */,
+				D094D8F82144F18800B9E0FF /* AlfieGoodBoy.m4a in Resources */,
+				D094D8F02144E76A00B9E0FF /* IMG_1037.JPG in Resources */,
 				D094D8E02144E75400B9E0FF /* Main.storyboard in Resources */,
+				D094D8F52144F18800B9E0FF /* AlfieEh.m4a in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
